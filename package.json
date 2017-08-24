@@ -1,6 +1,6 @@
 {
-  "name": "prerender-spa-plugin",
-  "version": "2.0.1",
+  "name": "prerender-spa-plugin-custom",
+  "version": "0.0.1",
   "description": "Prerenders static HTML in a single-page application.",
   "main": "index.js",
   "author": "Chris Fritz",
@@ -23,5 +23,24 @@
   },
   "engines": {
     "node": ">=4.0.0"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saionjisekai/prerender-spa-plugin.git"
+  },
+  "keywords": [
+    "vue.js",
+    "spa",
+    "prerender"
+  ],
+  "bugs": {
+    "url": "https://github.com/saionjisekai/prerender-spa-plugin/issues"
+  },
+  "homepage": "https://github.com/saionjisekai/prerender-spa-plugin#readme"
 }
