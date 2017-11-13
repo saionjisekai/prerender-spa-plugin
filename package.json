@@ -1,6 +1,6 @@
 {
   "name": "prerender-spa-plugin-custom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prerenders static HTML in a single-page application.",
   "main": "index.js",
   "author": "Chris Fritz",
